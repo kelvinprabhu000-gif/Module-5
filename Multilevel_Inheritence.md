@@ -67,6 +67,10 @@ print("Location:", obj.getLocation())
 ```
 ## Sample Output
 <img width="595" height="412" alt="image" src="https://github.com/user-attachments/assets/74f463d4-6e18-43f9-be2e-540b309f3023" />
+
+
+
+
 ## Result
 Thus, the Python program demonstrating multilevel inheritance to display name, age, and location was executed successfully, and the output was obtained.
 
