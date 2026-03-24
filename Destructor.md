@@ -21,7 +21,8 @@ The program defines a class `Demo` with:
    - Create an instance of the `Demo` class.
    - Delete the object using the `del` keyword.
 ## Program
-```class Demo:
+```py
+class Demo:
     def __init__(self):
         self.status = "Alive"
         print("Status:", self.status)
