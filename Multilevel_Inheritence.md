@@ -26,7 +26,7 @@ To write a Python program that uses multilevel inheritance to get and display a 
    - Print all details using class methods.
 
 ## Program
-```
+```py
 class Parent:
     def __init__(self, name):
         self.name = name
