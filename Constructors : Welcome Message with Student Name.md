@@ -11,7 +11,7 @@ To write a Python program that creates a **Student** class with a **default cons
 5. **Execute the Program**: Instantiate the `Student` class and call the `show` method.
 
 ## 🧾 Program
-```
+```py
 class Student:
     def __init__(self):
         self.a = input("Enter student name: ")
